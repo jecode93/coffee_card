@@ -1,6 +1,6 @@
 # coffee_card
 
-A new Flutter project.
+A new project to learn Flutter.
 
 ## Getting Started
 
