@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
 
 void main() {
   runApp(
@@ -23,8 +24,19 @@ class Home extends StatelessWidget {
         backgroundColor: Colors.brown[700],
         centerTitle: true,
       ),
-      body: const Center(
-        child: Text('Hello, ninja!'),
+      body: Container(
+        color: Colors.orange,
+        padding: const EdgeInsets.all(20),
+        margin: const EdgeInsets.fromLTRB(10, 40, 0, 0),
+        child: const Text(
+          'Hello, ninja!',
+          style: TextStyle(
+            fontSize: 18,
+            letterSpacing: 4,
+            decoration: TextDecoration.underline,
+            fontStyle: FontStyle.italic,
+          ),
+        ),
       ),
     );
   }
