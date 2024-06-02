@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Author
 
-👤 **Jean Emmanuel Cadet**
+👤 **Jean Emmanuel CADET**
 - GitHub: [@jecode93](https://github.com/jecode93)
 - LinkedIn: [jean-emmanuel-cadet](https://www.linkedin.com/in/jean-emmanuel-cadet/)
 - Facebook: [@jecode93](https://www.facebook.com/jecode93)
